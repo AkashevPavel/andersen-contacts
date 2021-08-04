@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">andersen_contacts</string>
+    <string name="first_name">Mary</string>
+    <string name="second_name">Piter</string>
+    <string name="third_name">Spider</string>
+    <string name="first_surname">Jane</string>
+    <string name="first_phone_number">+1 000 345 7</string>
+    <string name="third_surname">Man</string>
+    <string name="third_phone_number">+3 000 765 8</string>
+    <string name="second_surname">Parker</string>
+    <string name="second_phone_number">+2 000 638 2</string>
+</resources>
